@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @adamjdw
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on dunno yet
-- 📫 How to reach me email
+- 🌱 I’m currently learning Python, I'm a total beginner 
+- 📫 How to reach me adamjdw@aol.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an aeronautical engineer by trade
 
